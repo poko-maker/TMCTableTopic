@@ -3,10 +3,11 @@
 
 ###
 ## Background
-You may know several digital tools for English translation. 
-In the future, we might meet auto translation tool inside our body...!? <br><br>
+You may know some digital tools for English-Japanese translation. 
 
-In that situation, how do you think of the necessity to learn English? 
+In the future, we might meet auto translation tool inside our body...!? <br><br>
+Under this circumstances, how do you think of the necessity to learn English? 
+
 I will ask you some questions about it in this digital world.
 
 ### 
@@ -17,18 +18,22 @@ If not, why don't you use them?
 
 ### 
 ## Q2.
-How do you think of the perfect simultaneously translation tool inside your body? <br>
-You can use it with no stress!
+Do you agree using tranlation tools for your work?  <br>
+Why?
 
 ### 
 ## Q3.
-Do you think English skill is essential, even after everybody can use the perfect translation tool? <br>
-Why?
+How do you think if the perfect simultaneously translation tool inside your body are available? <br>
+(Suppose you can use it with no stress!)
 
 ### 
 ## Q4.
-What language do you want to use if everybody can use the perfect translation tool? <br>
+Do you think English skill is still essential, even after everybody can use that perfect translation tool with no stress? <br>
 Why?
+
+### 
+## Q5.
+What does learning English mean to you? <br>
 
 ### Thank you !
 
