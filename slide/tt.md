@@ -3,7 +3,7 @@
 
 ###
 ## Background
-You may know several digital tools for English translation. 
+Do you use any digital tool for English translation?
 In the future, we might meet auto translation tool inside our body...!? <br><br>
 
 In that situation, how do you think of the necessity to learn English? 
