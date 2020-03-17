@@ -3,8 +3,8 @@
 
 ###
 ## Background
-You may know several digital tools for English translation. 
-In the future, we might meet auto translation tool inside our body...!? <br><br>
+Do you use digital tools for English translation?
+In the future, you might meet auto translation tool inside your body...!? <br><br>
 
 In that situation, how do you think of the necessity to learn English? 
 I will ask you some questions about it in this digital world.
